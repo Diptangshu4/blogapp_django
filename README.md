@@ -58,6 +58,17 @@ To run the Django Blog Project locally, follow these steps:
 
 8. Access the application by visiting `http://localhost:8000` in your web browser.
 
+## Images:
+
+<img width="1352" alt="Screen Shot 2023-06-13 at 9 13 48 PM" src="https://github.com/Diptangshu4/blogapp_django/assets/75307938/cfb713ae-755f-42fa-828d-1105876780fe">
+<img width="1352" alt="Screen Shot 2023-06-13 at 9 13 53 PM" src="https://github.com/Diptangshu4/blogapp_django/assets/75307938/c173dbf1-5a9f-48f7-9439-7a55aa39279f">
+<img width="1352" alt="Screen Shot 2023-06-13 at 9 14 03 PM" src="https://github.com/Diptangshu4/blogapp_django/assets/75307938/4e330ce9-3f8e-4d24-b681-0aba2256e602">
+<img width="1352" alt="Screen Shot 2023-06-13 at 9 14 08 PM" src="https://github.com/Diptangshu4/blogapp_django/assets/75307938/6382bde9-af68-4df1-88db-51bda2f182d4">
+<img width="1352" alt="Screen Shot 2023-06-13 at 9 14 30 PM" src="https://github.com/Diptangshu4/blogapp_django/assets/75307938/3d29f7d4-bc96-4b32-a89c-6345dc1a3b73">
+<img width="1352" alt="Screen Shot 2023-06-13 at 9 14 38 PM" src="https://github.com/Diptangshu4/blogapp_django/assets/75307938/a817d18f-bf23-4e78-8eaf-5caaf5a8bfa7">
+<img width="1352" alt="Screen Shot 2023-06-13 at 9 14 51 PM" src="https://github.com/Diptangshu4/blogapp_django/assets/75307938/550264c5-5479-4daf-a603-c06c7181aafa">
+
+
 ## Contributing
 
 Contributions to this project are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request. Your contributions can help improve the project and make it even better.
