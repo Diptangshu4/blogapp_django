@@ -59,8 +59,8 @@ To run the Django Blog Project locally, follow these steps:
 
 To use login and logout use this as credentials
 
-Username: blooggg
-Password: Saturday@123
+        Username: blooggg
+        Password: Saturday@123
 
 ## Images:
 
