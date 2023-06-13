@@ -55,8 +55,12 @@ To run the Django Blog Project locally, follow these steps:
 
         python manage.py runserver
 
-
 8. Access the application by visiting `http://localhost:8000` in your web browser.
+
+To use login and logout use this as credentials
+
+Username: blooggg
+Password: Saturday@123
 
 ## Images:
 
